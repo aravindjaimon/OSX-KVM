@@ -22,8 +22,8 @@ MY_OPTIONS="+ssse3,+sse4.2,+popcnt,+avx,+aes,+xsave,+xsaveopt,check"
 
 ALLOCATED_RAM="16384" # MiB
 CPU_SOCKETS="1"
-CPU_CORES="2"
-CPU_THREADS="4"
+CPU_CORES="4"
+CPU_THREADS="8"
 
 REPO_PATH="."
 OVMF_DIR="."

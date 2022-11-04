@@ -624,8 +624,8 @@ modified SMP line results in a full CPU core/thread pass through:
 
 ```
 CPU_SOCKETS="3"
-CPU_CORES="2"
-CPU_THREADS="2"
+CPU_CORES="4"
+CPU_THREADS="8"
 CPU_TOTAL="12"
 ```
 
